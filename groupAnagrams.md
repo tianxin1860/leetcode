@@ -15,8 +15,7 @@ For example, given: ["eat", "tea", "tan", "ate", "nat", "bat"],
 	["nat","tan"],
 	["bat"]
 	]
-
-
+# Code:c++
 ```
 class Solution {
 	public:
