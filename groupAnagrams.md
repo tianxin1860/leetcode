@@ -1,11 +1,10 @@
-/******************************************
-*Title: LeetCode/49/Group Anagrams
-*Author:TianXin
-*2016-03-02
-*******************************************/
 
-//Question:
-/**************************************************************
+* Title: LeetCode/49/Group Anagrams
+* Author:TianXin
+* 2016-03-02
+
+#Question:
+
 Given an array of strings, group anagrams together.
 
 For example, given: ["eat", "tea", "tan", "ate", "nat", "bat"], 
@@ -16,7 +15,6 @@ For example, given: ["eat", "tea", "tan", "ate", "nat", "bat"],
 	["nat","tan"],
 	["bat"]
 	]
-***************************************************************/
 
 
 ```
